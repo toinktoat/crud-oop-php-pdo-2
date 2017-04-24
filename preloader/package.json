@@ -1,0 +1,15 @@
+{
+  "name": "core-themes-jquery-preloader",
+  "description": "jQuery preloader plugin",
+  "author": "Martin Hrasek <martin@hrasek.email>",
+  "version": "0.0.1",
+  "license": "MIT",
+  "scripts": {
+    "prod": "gulp --production",
+    "dev": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^5.0.0"
+  }
+}

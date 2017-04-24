@@ -1,0 +1,33 @@
+{
+  "name": "core-themes-jquery-preloader",
+  "description": "jQuery preloader plugin",
+  "main": "dist/jquery.preloader.js",
+  "authors": [
+    "Martin Hrasek <martin@hrasek.email>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "preloader",
+    "plugin",
+    "page",
+    "image",
+    "preloading",
+    "pre",
+    "loader"
+  ],
+  "homepage": "http://core-system.eu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "resources",
+    "vendor",
+    "test",
+    "tests",
+    "src"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
